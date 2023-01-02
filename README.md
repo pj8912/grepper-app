@@ -42,6 +42,6 @@ Get Your Access Token : https://github.com/Code-Grepper/Code-Grepper-API-Documen
 ![Screenshot from 2023-01-02 14-41-39](https://user-images.githubusercontent.com/59218902/210212224-476ec720-3946-4ac9-9120-64682a8f6daf.png)
 
 
- This API  requires the query, language and the answer publish the answer.
+ This API  requires the `query`, `language` and the `answer` to  publish the answer.
 
     
