@@ -19,7 +19,7 @@ This API allows us to publish answer for a search term/query
 
 ------------------
 
-Authorization depends upon the type od API you use.
+Authorization depends upon the type of API you use.
 
 *** The important things that are required for authorization are your userid and access-token
 
