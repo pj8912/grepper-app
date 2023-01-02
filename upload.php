@@ -24,7 +24,7 @@
 <div class="mb-2">
 <label for="">Select Language</label>
 <!-- <input type="text" name="" id="lang" placeholder="language"> -->
-<select class="form-control" id="lang"><option value="assembly">Assembly</option><option value="c">C</option><option value="css">CSS</option><option value="html">Html</option><option value="javascript">Javascript</option><option selected="selected" value="php">PHP</option><option value="python">Python</option><option value="shell">Shell/Bash</option><option value="sql">SQL</option><option value="whatever">Whatever</option></select>
+<select class="form-control" id="lang"><option value="assembly">Assembly</option><option value="c">C</option><option value="css">CSS</option><option value="html">Html</option><option value="javascript">Javascript</option><option value="php">PHP</option><option value="python">Python</option><option value="shell">Shell/Bash</option><option value="sql">SQL</option><option value="whatever">Whatever</option></select>
 
 </div>
 
