@@ -5,11 +5,11 @@ Application built using CodeGrepper API
 
 ## Working
 
-    The needed answers are used to fetch the queries and publish answer allows us to publish answer for a query we click on.
+The needed answers are used to fetch the queries and publish answer allows us to publish answer for a query we click on.
 
-    I use two APIs 
-    - Needed Answers
-    - Publish Answer
+Two APIs  are used:
+ - Needed Answers
+ - Publish Answer
 
 ### Needed Answers
 This API  allows us to fetch Queries that needed answers
