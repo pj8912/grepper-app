@@ -10,7 +10,13 @@
 </head>
 <body>
 
-<div class="card card-body col-md-4">
+<div class="card card-body col-md-4 m-auto mt-5">
+
+<p class="h3 text-secondary">
+
+    Publish Answer API
+</p>
+
     <div id="quer" class="mb-2">
 
     </div>
@@ -44,6 +50,7 @@
     textarea.rows = 15;
     textarea.cols = 50;
     textarea.setAttribute("id", "query");
+    textarea.setAttribute("class", "form-control");
 
     // document.getElementById('query').innerHTML = pageSize;
     document.getElementById('quer').appendChild(textarea)
@@ -51,7 +58,7 @@
     const token = "YOUR_TOKEN"; // STRING
 	const userId = "YOUR_ID"; //INT 
 
-    
+
     async function uploadAnswer(){
 
 const data = {    

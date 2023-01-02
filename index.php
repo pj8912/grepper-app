@@ -29,7 +29,7 @@ async function getNeeded(){
 
     const token = "YOUR_TOKEN" //string
     
-    const userId = 'YOUR USERID'; //int
+    const userId = "YOUR_ID"; //int
 
 
  await fetch('https://www.codegrepper.com/api/get_terms_needing_answers.php', {
