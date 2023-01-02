@@ -17,11 +17,15 @@ This API  allows us to fetch Queries that needed answers
 ### Publish Answer
 This API allows us to publish answer for a search term/query
 
+------------------
+
 Authorization depends upon the type od API you use.
 
 *** The important things that are required for authorization are your userid and access-token
 
 Get Your Access Token : https://github.com/Code-Grepper/Code-Grepper-API-Documentation/blob/main/docs/auth/TOKEN.MD
+
+------------------
 
 
 ## Fetched Needed Answers
