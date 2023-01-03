@@ -21,7 +21,7 @@ This API allows us to publish answer for a search term/query
 
 Authorization depends upon the type of API you use.
 
-*** The important things that are required for authorization are your userid and access-token
+*** The important things that are required for authorization are your `userid` and `access-token` ***
 
 Get Your Access Token : https://github.com/Code-Grepper/Code-Grepper-API-Documentation/blob/main/docs/auth/TOKEN.MD
 
@@ -49,8 +49,9 @@ Get Your Access Token : https://github.com/Code-Grepper/Code-Grepper-API-Documen
 
 ![Screenshot from 2023-01-03 11-46-49](https://user-images.githubusercontent.com/59218902/210308789-a667f1db-28f2-45f5-9c0c-a4bbfa9b3b4d.png)
 
- This uses `Get Answers` and `SIMILIARQUERIES` API for getting answers for our query and similar queries respectivley
- `Get Answers` API : `https://github.com/Code-Grepper/Code-Grepper-API-Documentation/blob/main/docs/answers/GETANSWERS.MD` 
- `SIMILARQUERIES` API: `https://github.com/Code-Grepper/Code-Grepper-API-Documentation/blob/main/docs/answers/SIMILIARQUERIES.MD`
+ This uses `Get Answers` and `SIMILIARQUERIES` API for getting answers for our query and similar queries respectively
+ 
+ `Get Answers` API : https://github.com/Code-Grepper/Code-Grepper-API-Documentation/blob/main/docs/answers/GETANSWERS.MD
+ `SIMILARQUERIES` API: https://github.com/Code-Grepper/Code-Grepper-API-Documentation/blob/main/docs/answers/SIMILIARQUERIES.MD
  
  
