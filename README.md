@@ -1,7 +1,7 @@
 # grepper-app
 Application built using CodeGrepper API
 
-### CodeGrepperAPI: `https://github.com/Code-Grepper/Code-Grepper-API-Documentation`
+CodeGrepperAPI: https://github.com/Code-Grepper/Code-Grepper-API-Documentation
 
 ## Working
 
