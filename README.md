@@ -52,6 +52,7 @@ Get Your Access Token : https://github.com/Code-Grepper/Code-Grepper-API-Documen
  This uses `Get Answers` and `SIMILIARQUERIES` API for getting answers for our query and similar queries respectively
  
  `Get Answers` API : https://github.com/Code-Grepper/Code-Grepper-API-Documentation/blob/main/docs/answers/GETANSWERS.MD
+ 
  `SIMILARQUERIES` API: https://github.com/Code-Grepper/Code-Grepper-API-Documentation/blob/main/docs/answers/SIMILIARQUERIES.MD
  
  
