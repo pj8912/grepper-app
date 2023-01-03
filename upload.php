@@ -56,7 +56,7 @@
     document.getElementById('quer').appendChild(textarea)
 
     const token = "YOUR_TOKEN"; // STRING
-	const userId = "YOUR_ID"; //INT 
+	const userId = "YOUR_ID"; //INT  not inside "" while writing integer
 
 
     async function uploadAnswer(){
