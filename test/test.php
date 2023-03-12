@@ -1,22 +1,14 @@
-<select onclick="getVal()" id="lang" class="form-control" >
-    <option  value="assembly">Assembly</option>
-    <option  value="c">C</option>
-    <option  value="css">CSS</option>
-    <option  value="html">Html</option>
-    <option  value="javascript">Javascript</option>
-    <option   value="php">PHP</option>
-    <option  value="python">Python</option>
-    <option  value="shell">Shell/Bash</option>
-    <option  value="sql">SQL</option>
-    <option  value="whatever">Whatever</option>
-</select>
 
+<?php
 
-<script>
+require_once('../database/sql.php');
+$db = new database('testdb.db');
+$data = "ad2";
+if($db->exec("INSERT INTO test_table(testdata) VALUES('$data')")){
+   echo "data uploaded successfully";
+}
+else{
+    echo "err!";
+}
 
-    function getVal(){
-        var s = document.getElementById('lang').value;
-        console.log(s)
-    }
-
-</script>
+?>
