@@ -29,7 +29,7 @@
 
             <p class="h3 text-secondary">
 
-                Publish Answer API
+                Publish Answer 
             </p>
 
             <div id="quer" class="mb-2">
