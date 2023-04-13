@@ -29,8 +29,8 @@
 
     async function getNeeded() {
 
-      const token = "87cf3101746ccc7d237e83f60173ec1435a93e4e4be35272435000672099bca1fac08301035ef62e1bd413d4c6a8bb9e267080da4ec792e73d621b1c5acd8d37"
-      const userId = 85648; //int
+      const token = "" //string
+      const userId = ; //int
 
       await fetch('https://www.codegrepper.com/api/get_terms_needing_answers.php', {
 
